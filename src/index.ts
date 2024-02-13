@@ -1,5 +1,4 @@
-import {Canister, query, update, int64, text, Principal, bool, Void,ic} from 'azle'
-
+import {Canister, query, update, int64, text, Principal, bool, Void,ic} from 'azle 
 // Define global auction item structure
 
 type auctionItem = {
